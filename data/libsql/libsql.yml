@@ -1,0 +1,13 @@
+name: "LibSQL"
+description: "Open-source fork of SQLite with client/server architecture and replication, managed by the Turso team. Can be self-hosted or used with Turso cloud."
+source_url: "https://libsql.org/"
+category: "Edge / SQLite Databases"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "sqlite"
+  - "libsql"
+  - "edge"
+icon_url: "https://icons.duckduckgo.com/ip3/libsql.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://libsql.org/>\n- Repository: <https://github.com/tursodatabase/libsql>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

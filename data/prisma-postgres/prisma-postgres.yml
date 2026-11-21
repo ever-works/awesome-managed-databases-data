@@ -1,0 +1,13 @@
+name: "Prisma Postgres"
+description: "Serverless Postgres database built by Prisma with integrated connection pooling and Prisma ORM support. Targets application developers seeking a managed Postgres experience with a free tier."
+source_url: "https://prisma.io/postgres"
+category: "Serverless Postgres"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "orm"
+  - "serverless"
+icon_url: "https://icons.duckduckgo.com/ip3/prisma.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://prisma.io/postgres>\n"
+updated_at: "2026-11-21 02:00"

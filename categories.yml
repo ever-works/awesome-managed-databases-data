@@ -1,0 +1,12 @@
+- id: serverless-postgres
+  name: "Serverless Postgres"
+- id: managed-mysql
+  name: "Managed MySQL"
+- id: distributed-sql
+  name: "Distributed SQL"
+- id: edge-sqlite-databases
+  name: "Edge / SQLite Databases"
+- id: nosql-dbaas
+  name: "NoSQL DBaaS"
+- id: free-tiers
+  name: "Free Tiers"

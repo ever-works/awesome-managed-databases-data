@@ -1,0 +1,13 @@
+name: "DigitalOcean Managed Databases"
+description: "Fully managed MySQL, PostgreSQL, Redis, and MongoDB clusters with automatic backups and high availability. Aimed at developers and small businesses with simple pricing and a free trial."
+source_url: "https://digitalocean.com/products/managed-databases"
+category: "Managed MySQL"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "managed-service"
+  - "high-availability"
+  - "backups"
+icon_url: "https://icons.duckduckgo.com/ip3/digitalocean.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://digitalocean.com/products/managed-databases>\n"
+updated_at: "2026-11-21 02:00"

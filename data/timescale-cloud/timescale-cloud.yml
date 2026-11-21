@@ -1,0 +1,13 @@
+name: "Timescale Cloud"
+description: "Managed PostgreSQL cloud service optimized for time-series data with continuous aggregates and compression. Offers a free tier and paid plans based on usage."
+source_url: "https://timescale.com/cloud"
+category: "Free Tiers"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "postgresql"
+  - "time-series"
+  - "managed-service"
+icon_url: "https://icons.duckduckgo.com/ip3/timescale.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://timescale.com/cloud>\n"
+updated_at: "2026-11-21 02:00"

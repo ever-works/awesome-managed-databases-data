@@ -1,0 +1,13 @@
+name: "Redis Cloud"
+description: "Fully managed Redis service with high availability, persistence, and active-active geo-replication. Offers a free tier and paid plans for production workloads."
+source_url: "https://redis.io/cloud"
+category: "NoSQL DBaaS"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "redis"
+  - "in-memory"
+  - "managed-service"
+icon_url: "https://icons.duckduckgo.com/ip3/redis.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://redis.io/cloud>\n"
+updated_at: "2026-11-21 02:00"

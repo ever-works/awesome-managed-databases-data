@@ -1,0 +1,13 @@
+name: "Nile"
+description: "Postgres platform designed for multi-tenant applications with virtual tenant databases and tenant-aware scaling. Offers a free tier and paid plans for SaaS developers."
+source_url: "https://nile.dev/"
+category: "Serverless Postgres"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "multi-tenant"
+  - "api"
+  - "serverless"
+icon_url: "https://icons.duckduckgo.com/ip3/nile.dev.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://nile.dev/>\n"
+updated_at: "2026-11-21 02:00"

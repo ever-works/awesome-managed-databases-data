@@ -1,0 +1,13 @@
+name: "Aiven"
+description: "Managed data platform offering MySQL, PostgreSQL, Redis, Kafka, and OpenSearch across multiple cloud providers. Includes a free tier for small workloads and enterprise-grade paid options."
+source_url: "https://aiven.io/"
+category: "Managed MySQL"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "multi-cloud"
+  - "enterprise"
+  - "managed-service"
+icon_url: "https://icons.duckduckgo.com/ip3/aiven.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://aiven.io/>\n"
+updated_at: "2026-11-21 02:00"

@@ -1,0 +1,76 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: serverless
+  name: "Serverless"
+- id: baas
+  name: "BaaS"
+- id: orm
+  name: "ORM"
+- id: ai-powered
+  name: "AI-Powered"
+- id: search
+  name: "Search"
+- id: multi-tenant
+  name: "Multi-tenant"
+- id: multi-cloud
+  name: "Multi-cloud"
+- id: enterprise
+  name: "Enterprise"
+- id: managed-service
+  name: "Managed Service"
+- id: high-availability
+  name: "High Availability"
+- id: backups
+  name: "Backups"
+- id: paid
+  name: "Paid"
+- id: google-cloud
+  name: "Google Cloud"
+- id: distributed-sql
+  name: "Distributed SQL"
+- id: htap
+  name: "HTAP"
+- id: mysql-compatible
+  name: "MySQL-compatible"
+- id: edge
+  name: "Edge"
+- id: sqlite
+  name: "SQLite"
+- id: libsql
+  name: "libSQL"
+- id: cloudflare
+  name: "Cloudflare"
+- id: nosql
+  name: "NoSQL"
+- id: document
+  name: "Document"
+- id: atlas-search
+  name: "Atlas Search"
+- id: redis
+  name: "Redis"
+- id: kafka
+  name: "Kafka"
+- id: in-memory
+  name: "In-memory"
+- id: mobile
+  name: "Mobile"
+- id: postgresql
+  name: "PostgreSQL"
+- id: heroku
+  name: "Heroku"
+- id: add-on
+  name: "Add-on"
+- id: time-series
+  name: "Time-series"
+- id: mysql
+  name: "MySQL"
+- id: paas
+  name: "PaaS"
