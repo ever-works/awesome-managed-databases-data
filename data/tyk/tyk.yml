@@ -1,0 +1,41 @@
+name: Tyk
+description: API management platform with authentication, quotas, monitoring and
+  analytics. Offers a free cloud offering for API gateway and management
+  capabilities.
+source_url: https://tyk.io/
+category: NoSQL DBaaS
+tags:
+  - api-management
+  - gateway
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Tyk is an open-source API management platform providing API gateway,
+  authentication, quotas, monitoring, and analytics for managing APIs at scale.
+
+
+  ## Features
+
+
+  - API gateway
+
+  - Authentication and authorization
+
+  - Rate limiting and quotas
+
+  - Monitoring and analytics
+
+  - Free cloud offering
+
+  - Open source
+
+
+  ## Pricing
+
+
+  Free cloud tier available. Self-hosted open-source version available under
+  AGPL license. Paid plans for enterprise features.
+brand: Tyk
+updated_at: 2026-11-22 05:22

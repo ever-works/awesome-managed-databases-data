@@ -1,0 +1,41 @@
+name: Stream
+description: Backend-as-a-Service for building scalable In-App Chat, Messaging,
+  Video and audio, and Feeds. Provides APIs and SDKs to add chat, activity
+  feeds, and video capabilities to applications without building infrastructure
+  from scratch.
+source_url: https://getstream.io/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - chat
+  - activity-feeds
+  - video
+  - api
+markdown: >-
+  ## Overview
+
+
+  Stream provides backend APIs and SDKs for adding In-App Chat, Messaging,
+  Video, Audio, and Activity Feeds to web and mobile applications.
+
+
+  ## Features
+
+
+  - Scalable In-App Chat and Messaging
+
+  - Video and audio calling
+
+  - Activity Feeds
+
+  - SDKs for multiple platforms
+
+  - Enterprise-grade infrastructure
+
+
+  ## Pricing
+
+
+  Contact for pricing. Free tier available for getting started.
+brand: Stream
+updated_at: 2026-11-22 05:22

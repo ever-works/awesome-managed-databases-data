@@ -1,0 +1,31 @@
+name: ReviveDB
+description: ReviveDB keeps recovery points of Supabase databases and Auth,
+  Storage files, Edge Functions, and supported project configuration. It only
+  marks a backup ready once the database has been restored and compared. The
+  free plan covers one project with weekly backups and three recovery points.
+source_url: https://revivedb.com
+category: Free Tiers
+tags:
+  - backup
+  - supabase
+  - recovery
+  - free-plan
+featured: false
+markdown: |-
+  ## Overview
+
+  ReviveDB is a recovery point service for Supabase applications.
+
+  ## Features
+
+  - Recovery points for database, Auth, Storage files, Edge Functions
+  - Supported project configuration backup
+  - Backup verified only after restore and comparison
+  - Weekly backups on free plan
+  - Three recovery points on free plan
+
+  ## Pricing
+
+  Free plan covers one project with weekly backups and three recovery points.
+brand: ReviveDB
+updated_at: 2026-11-22 05:22

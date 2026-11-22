@@ -1,0 +1,37 @@
+name: IFTTT
+description: Automation platform to connect apps and devices. Users can create
+  applets that trigger actions across services. Free tier includes 2 Applets for
+  personal automation.
+source_url: https://ifttt.com/
+category: NoSQL DBaaS
+tags:
+  - automation
+  - api
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  IFTTT (If This Then That) is an automation platform that connects web
+  services, apps, and devices through conditional applets.
+
+
+  ## Features
+
+
+  - Connect apps and devices
+
+  - Create conditional applets
+
+  - Free tier includes 2 Applets
+
+  - Wide service integrations
+
+
+  ## Pricing
+
+
+  Free plan includes 2 Applets. Paid plans for unlimited applets and advanced
+  features.
+brand: IFTTT
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,42 @@
+name: Bonsai
+description: Bonsai is a managed Elasticsearch service offering a free tier with
+  1 GB memory and 1 GB storage. It is a commercial NoSQL database-as-a-service
+  focused on search and analytics workloads, delivered as a fully managed cloud
+  platform.
+source_url: https://bonsai.io
+category: NoSQL DBaaS
+tags:
+  - free-plan
+  - elasticsearch
+  - managed
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bonsai is a managed Elasticsearch service that provides search and analytics
+  capabilities as a fully managed cloud database. Users do not need to operate
+  their own Elasticsearch clusters.
+
+
+  ## Features
+
+
+  - Managed Elasticsearch clusters
+
+  - 1 GB memory and 1 GB storage on the free tier
+
+  - Fully managed cloud deployment
+
+  - Search and analytics workloads
+
+
+  ## Pricing
+
+
+  A free tier is available with 1 GB memory and 1 GB storage. Paid plans scale
+  beyond the free tier limits.
+brand: Bonsai
+brand_logo_url: https://bonsai.io/images/bonsai-logo.svg
+images: []
+updated_at: 2026-11-22 05:22

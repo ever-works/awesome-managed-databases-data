@@ -1,0 +1,42 @@
+name: ConnectyCube
+description: Backend-as-a-Service providing unlimited chat messages, p2p voice &
+  video calls, file attachments and push notifications. Free for apps up to 1000
+  users. Suitable for building real-time communication features into mobile and
+  web applications.
+source_url: https://connectycube.com/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - chat
+  - video-calling
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  ConnectyCube is a BaaS platform focused on real-time communication features
+  including chat, voice and video calls, file attachments, and push
+  notifications for mobile and web applications.
+
+
+  ## Features
+
+
+  - Unlimited chat messages
+
+  - P2P voice & video calls
+
+  - File attachments
+
+  - Push notifications
+
+  - Free for apps up to 1000 users
+
+
+  ## Pricing
+
+
+  Free tier available for apps with up to 1000 users. Paid plans for larger
+  applications.
+brand: ConnectyCube
+updated_at: 2026-11-22 05:22

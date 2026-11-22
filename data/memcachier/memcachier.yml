@@ -1,0 +1,27 @@
+name: MemCachier
+description: MemCachier is a managed Memcache service. The free tier supports up
+  to 25MB, 1 Proxy Server, and basic analytics.
+source_url: https://www.memcachier.com
+category: NoSQL DBaaS
+tags:
+  - cache
+  - memcache
+  - managed
+  - free-plan
+featured: false
+markdown: |-
+  ## Overview
+
+  MemCachier is a managed Memcache service.
+
+  ## Features
+
+  - Managed Memcache
+  - Proxy server
+  - Basic analytics
+
+  ## Pricing
+
+  Free tier supports up to 25MB, 1 Proxy Server, and basic analytics.
+brand: MemCachier
+updated_at: 2026-11-22 05:22

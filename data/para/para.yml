@@ -1,0 +1,42 @@
+name: Para
+description: Backend service API with flexible authentication, full-text search
+  and caching. Free for one app with 1GB of app data. Provides object storage,
+  user management, and search capabilities for applications.
+source_url: https://paraio.com/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - authentication
+  - search
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Para is a backend service API providing flexible authentication, full-text
+  search, and caching for applications.
+
+
+  ## Features
+
+
+  - Flexible authentication
+
+  - Full-text search
+
+  - Caching
+
+  - Object storage
+
+  - Free for one app
+
+  - 1GB of app data (free)
+
+
+  ## Pricing
+
+
+  Free tier for one app with 1GB of app data. Paid plans for multiple apps and
+  higher limits.
+brand: Para
+updated_at: 2026-11-22 05:22

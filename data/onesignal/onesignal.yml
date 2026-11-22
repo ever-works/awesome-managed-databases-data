@@ -1,0 +1,43 @@
+name: OneSignal
+description: Customer engagement platform offering unlimited free push
+  notifications, 10,000 email sends per month, with unlimited contacts and
+  access to Auto Warm Up. Provides push, email, SMS, and in-app messaging for
+  mobile and web apps.
+source_url: https://onesignal.com/
+category: NoSQL DBaaS
+tags:
+  - push-notifications
+  - baas
+  - free-plan
+  - messaging
+markdown: >-
+  ## Overview
+
+
+  OneSignal is a customer engagement platform providing push notifications,
+  email, SMS, and in-app messaging for mobile and web applications.
+
+
+  ## Features
+
+
+  - Unlimited free push notifications
+
+  - 10,000 email sends per month
+
+  - Unlimited contacts
+
+  - Auto Warm Up for email deliverability
+
+  - In-app messaging
+
+  - SMS
+
+
+  ## Pricing
+
+
+  Free tier includes unlimited push notifications and 10,000 email sends/month.
+  Paid plans for higher volumes and advanced features.
+brand: OneSignal
+updated_at: 2026-11-22 05:22

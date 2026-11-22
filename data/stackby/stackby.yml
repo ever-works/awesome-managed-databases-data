@@ -1,0 +1,44 @@
+name: Stackby
+description: Stackby combines spreadsheet flexibility, database power, and
+  built-in integrations with business apps. The free plan includes unlimited
+  users, ten stacks, and a 2GB attachment per stack.
+source_url: https://stackby.com
+category: NoSQL DBaaS
+tags:
+  - spreadsheet
+  - database
+  - integrations
+  - free-plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Stackby is a tool that combines spreadsheets' flexibility, databases' power,
+  and built-in integrations with business apps.
+
+
+  ## Features
+
+
+  - Spreadsheet-like flexibility
+
+  - Database power
+
+  - Built-in integrations with business apps
+
+  - Unlimited users on free plan
+
+
+  ## Pricing
+
+
+  Free plan includes:
+
+  - Unlimited users
+
+  - Ten stacks
+
+  - 2GB attachment per stack
+brand: Stackby
+updated_at: 2026-11-22 05:22

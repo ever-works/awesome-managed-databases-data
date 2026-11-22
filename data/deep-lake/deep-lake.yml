@@ -1,0 +1,39 @@
+name: Deep Lake
+description: "Deep Lake is an open-source database for storing, querying and
+  managing complex AI data like images, audio, and embeddings. It serves as a
+  tensor database for AI workloads. Pricing: open source (Apache-2.0)."
+source_url: https://deeplake.ai
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - AI-Powered
+  - Tensor Database
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Deep Lake is an open-source database built for storing, querying, and managing
+  complex AI data such as images, audio, video, and embeddings.
+
+
+  ## Features
+
+
+  - Open-source database for complex AI data
+
+  - Store, query, and manage images, audio, and embeddings
+
+  - Tensor database for AI workloads
+
+  - Versioning and querying of unstructured data
+
+  - Integration with popular AI frameworks
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license.
+brand: Activeloop
+updated_at: 2026-11-22 05:22

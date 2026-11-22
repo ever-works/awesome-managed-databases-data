@@ -1,0 +1,42 @@
+name: CrateDB
+description: CrateDB is a distributed open-source SQL database for real-time
+  analytics. Its free tier (CRFREE) offers one node with 2 CPUs, 2 GiB memory,
+  and 8 GiB storage. One cluster per organization, no payment method required.
+source_url: https://cratedb.com
+category: Distributed SQL
+tags:
+  - distributed
+  - sql
+  - analytics
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CrateDB is a distributed open-source SQL database designed for real-time
+  analytics.
+
+
+  ## Features
+
+
+  - Distributed architecture
+
+  - SQL interface
+
+  - Real-time analytics
+
+  - Open source
+
+  - One cluster per organization on free tier
+
+  - No payment method required
+
+
+  ## Pricing
+
+
+  Free Tier CRFREE: One node with 2 CPUs, 2 GiB of memory, 8 GiB of storage.
+brand: Crate.io
+updated_at: 2026-11-22 05:22

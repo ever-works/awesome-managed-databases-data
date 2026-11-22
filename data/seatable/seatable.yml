@@ -1,0 +1,33 @@
+name: SeaTable
+description: SeaTable is a flexible, spreadsheet-like database built by the
+  Seafile team. It offers unlimited tables, 2,000 lines, 1-month versioning, and
+  up to 25 team members on the free tier.
+source_url: https://seatable.com
+category: NoSQL DBaaS
+tags:
+  - spreadsheet
+  - database
+  - free-plan
+featured: false
+markdown: |-
+  ## Overview
+
+  SeaTable is a flexible, spreadsheet-like database built by the Seafile team.
+
+  ## Features
+
+  - Unlimited tables
+  - Spreadsheet-like interface
+  - Database capabilities
+  - Versioning
+  - Team collaboration
+
+  ## Pricing
+
+  Free tier includes:
+  - Unlimited tables
+  - 2,000 lines
+  - 1-month versioning
+  - Up to 25 team members
+brand: SeaTable
+updated_at: 2026-11-22 05:22

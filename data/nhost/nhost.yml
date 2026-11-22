@@ -1,0 +1,72 @@
+name: Nhost
+description: Nhost offers a free-tier PostgreSQL as a Service with 1 GB storage,
+  0.5 CPU, and 256 MiB RAM. It includes 5 GB egress per month, allows 1 project,
+  and pauses after 1 week of inactivity. Registration is via GitHub or Email,
+  with no credit card required.
+source_url: https://nhost.io/
+category: Serverless Postgres
+tags:
+  - Free Plan
+  - Freemium
+  - Open Source
+markdown: >-
+  ## Overview
+
+
+  Nhost provides a free-tier PostgreSQL database service suitable for hobby
+  projects, prototypes, and experiments.
+
+
+  ## Core Specifications
+
+
+  | Specification | Value |
+
+  |---|---|
+
+  | Storage | 1 GB |
+
+  | CPU | 0.5 |
+
+  | RAM | 256 MiB |
+
+  | Backups | Not included |
+
+
+  ## Limits
+
+
+  | Limit | Value |
+
+  |---|---|
+
+  | Network | 5 GB egress per month |
+
+  | Other Limits | 1 project, 1 member |
+
+  | Pause Policy | Paused after 1 week of inactivity |
+
+
+  ## Registration
+
+
+  - GitHub
+
+  - Email
+
+
+  ## Locations
+
+
+  US, Europe, Asia, South America
+
+
+  ## Pricing Model
+
+
+  Free tier available with no credit card required. Paid plans available for
+  additional resources.
+brand: Nhost
+brand_logo_url: https://nhost.io/images/nhost-logo.svg
+images: []
+updated_at: 2026-11-22 05:22

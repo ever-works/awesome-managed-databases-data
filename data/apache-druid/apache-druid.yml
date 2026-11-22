@@ -1,0 +1,40 @@
+name: Apache Druid
+description: "Apache Druid is a real-time analytics database for sub-second OLAP
+  queries. It is a columnar, time-indexed analytics database built for streaming
+  and batch data at scale, handling billions to trillions of rows with
+  millisecond query response times. Pricing: open source (Apache-2.0)."
+source_url: https://druid.apache.org
+category: Distributed SQL
+tags:
+  - Open Source
+  - OLAP
+  - Real-Time Analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Apache Druid is a high-performance, column-oriented, distributed data store
+  designed for sub-second OLAP queries on streaming and batch data.
+
+
+  ## Features
+
+
+  - Real-time analytics database for sub-second OLAP queries
+
+  - Columnar, time-indexed analytics database
+
+  - Handles billions to trillions of rows
+
+  - Millisecond query response times
+
+  - Built for streaming and batch data at scale
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license.
+brand: Apache Software Foundation
+updated_at: 2026-11-22 05:22

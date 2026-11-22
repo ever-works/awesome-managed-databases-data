@@ -1,0 +1,40 @@
+name: QuestDB
+description: "QuestDB is a high-performance time-series database offering
+  massive ingestion throughput, millisecond queries, and SQL extensions,
+  designed for optimal performance at any hardware scale. It is built for
+  time-series data with high ingest rates. Pricing: open source (Apache-2.0)."
+source_url: https://questdb.io
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Time Series
+  - SQL
+featured: false
+markdown: >-
+  ## Overview
+
+
+  QuestDB is an open-source time-series database designed for high ingestion
+  throughput and fast SQL queries on time-series data.
+
+
+  ## Features
+
+
+  - High-performance time-series database for massive data scale
+
+  - Massive ingestion throughput
+
+  - Millisecond query response times
+
+  - SQL extensions for time-series analytics
+
+  - No external dependencies; zero-config deployment
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license.
+brand: QuestDB
+updated_at: 2026-11-22 05:22

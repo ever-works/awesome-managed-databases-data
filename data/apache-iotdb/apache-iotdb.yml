@@ -1,0 +1,40 @@
+name: Apache IoTDB
+description: "Apache IoTDB manages industrial IoT time-series data with
+  high-throughput read/write, edge-cloud sync, ultra-high compression, and
+  integrations with Hadoop, Spark, Flink, and Grafana. It is built for
+  industrial IoT workloads. Pricing: open source (Apache-2.0)."
+source_url: https://iotdb.apache.org
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Time Series
+  - IoT
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Apache IoTDB is a time-series database built for industrial IoT workloads,
+  managing high-throughput time-series data.
+
+
+  ## Features
+
+
+  - Time-series database built for industrial IoT workloads
+
+  - High-throughput read/write
+
+  - Edge-cloud sync
+
+  - Ultra-high compression
+
+  - Integrations with Hadoop, Spark, Flink, and Grafana
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license.
+brand: Apache Software Foundation
+updated_at: 2026-11-22 05:22

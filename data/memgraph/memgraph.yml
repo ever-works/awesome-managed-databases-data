@@ -1,0 +1,40 @@
+name: Memgraph
+description: "Memgraph is a scalable, in-memory graph database solution offering
+  high-performance computing and Neo4j compatibility. It is designed for
+  real-time graph analytics and high-performance graph computing. Pricing: open
+  source, with commercial options."
+source_url: https://memgraph.com
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Graph Database
+  - In-Memory
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Memgraph is an in-memory graph database solution designed for real-time graph
+  analytics and high-performance graph computing.
+
+
+  ## Features
+
+
+  - Scalable, in-memory graph database
+
+  - High-performance computing
+
+  - Neo4j compatibility (openCypher)
+
+  - Real-time graph analytics
+
+  - ACID transactions
+
+
+  ## Pricing
+
+
+  Open source. Commercial options available.
+brand: Memgraph
+updated_at: 2026-11-22 05:22

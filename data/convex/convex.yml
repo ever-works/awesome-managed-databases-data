@@ -1,0 +1,43 @@
+name: Convex
+description: Reactive backend as a service hosting data (documents with
+  relationships and serializable ACID transactions), serverless functions, and
+  WebSockets to stream updates to clients. Free for small projects - up to 1M
+  records, 5M monthly function calls.
+source_url: https://convex.dev/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - reactive
+  - serverless
+  - acid
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Convex is a reactive backend-as-a-service that combines a document database
+  with ACID transactions, serverless functions, and WebSocket-based real-time
+  updates for modern web and mobile applications.
+
+
+  ## Features
+
+
+  - Document database with relationships
+
+  - Serializable ACID transactions
+
+  - Serverless functions
+
+  - WebSockets for real-time updates to clients
+
+  - Reactive data synchronization
+
+
+  ## Pricing
+
+
+  Free for small projects: up to 1M records and 5M monthly function calls. Paid
+  plans for production workloads.
+brand: Convex
+updated_at: 2026-11-22 05:22

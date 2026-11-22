@@ -1,0 +1,71 @@
+name: TigerData
+description: TigerData offers free-tier PostgreSQL as a Service with 2 × 750 MB
+  storage and 24h Point-in-Time Recovery (PITR) backups. It features an agentic
+  PostgreSQL free plan experiment with AI on PostgreSQL. Registration is via
+  Google or Email, with no credit card required. Available in US regions only.
+source_url: https://www.tigerdata.com
+category: Serverless Postgres
+tags:
+  - Free Plan
+  - Freemium
+  - AI-Powered
+markdown: >-
+  ## Overview
+
+
+  TigerData provides a free-tier PostgreSQL database service with an agentic
+  PostgreSQL free plan experiment featuring AI capabilities on PostgreSQL.
+
+
+  ## Core Specifications
+
+
+  | Specification | Value |
+
+  |---|---|
+
+  | Storage | 2 × 750 MB |
+
+  | CPU | N/A |
+
+  | RAM | N/A |
+
+  | Backups | 24h PITR |
+
+
+  ## Limits
+
+
+  | Limit | Value |
+
+  |---|---|
+
+  | Network | Not specified |
+
+  | Other Limits | Not specified |
+
+  | Pause Policy | No pause |
+
+
+  ## Registration
+
+
+  - Google
+
+  - Email
+
+
+  ## Locations
+
+
+  US
+
+
+  ## Pricing Model
+
+
+  Free tier available with no credit card required.
+brand: TigerData
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,40 @@
+name: DragonflyDB
+description: "DragonflyDB is a high-performance, Redis-compatible in-memory data
+  store that delivers up to 25x more throughput and 80% lower costs than legacy
+  solutions. It is a blazing-fast in-memory data store for modern applications.
+  Pricing: open source, with managed cloud options."
+source_url: https://dragonflydb.io
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - In-Memory
+  - Redis-Compatible
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DragonflyDB is a high-performance, multithreaded, in-memory data store
+  compatible with Redis and Memcached APIs.
+
+
+  ## Features
+
+
+  - High-performance, Redis-compatible in-memory data store
+
+  - Up to 25x more throughput than legacy solutions
+
+  - 80% lower costs than legacy solutions
+
+  - Multithreaded architecture
+
+  - Drop-in replacement for Redis and Memcached
+
+
+  ## Pricing
+
+
+  Open source. Managed cloud options available via Dragonfly Cloud.
+brand: Dragonfly
+updated_at: 2026-11-22 05:22

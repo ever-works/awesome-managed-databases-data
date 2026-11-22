@@ -1,0 +1,38 @@
+name: BackupDrill
+description: BackupDrill backs up Supabase projects to user-owned S3/R2/B2
+  buckets and runs scheduled restore drills to verify backups restore correctly.
+  The free plan includes weekly backups for one project and one restore drill on
+  the first backup.
+source_url: https://backupdrill.com
+category: Free Tiers
+tags:
+  - backup
+  - supabase
+  - free-plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BackupDrill is a backup and restore drill service for Supabase projects.
+
+
+  ## Features
+
+
+  - Backs up Supabase projects to S3, R2, or B2 buckets
+
+  - Scheduled restore drills to prove backups restore
+
+  - Weekly backups on free plan
+
+  - One restore drill on first backup
+
+
+  ## Pricing
+
+
+  Free plan includes weekly backups for one project and one restore drill on
+  your first backup.
+brand: BackupDrill
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,39 @@
+name: Pantry
+description: Pantry is a simple JSON data storage API designed for personal
+  projects, hackathons, and mobile applications. It provides a RESTful interface
+  for storing and retrieving JSON documents without requiring developers to
+  operate or manage a database. The service offers a free tier for developers.
+source_url: https://getpantry.cloud
+category: NoSQL DBaaS
+tags:
+  - Free Plan
+  - API
+  - JSON
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pantry is a simple JSON data storage API perfect for personal projects,
+  hackathons, and mobile apps. It lets developers store and retrieve JSON
+  documents via a REST API without operating a database.
+
+
+  ## Features
+
+
+  - REST API for JSON document storage
+
+  - Simple key/value-style access to JSON blobs
+
+  - Suitable for personal projects, hackathons, and mobile backends
+
+  - No database management required
+
+
+  ## Pricing
+
+
+  Free tier available for developers.
+brand: Pantry
+updated_at: 2026-11-22 05:22

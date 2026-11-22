@@ -1,0 +1,39 @@
+name: Couchbase Capella
+description: Couchbase Capella is a fully managed database cloud service
+  offering a forever free tier cluster with 1 node and 8GB storage. It is built
+  for developers creating applications across IoT to AI use cases.
+source_url: https://www.couchbase.com/products/capella/
+category: NoSQL DBaaS
+tags:
+  - managed
+  - nosql
+  - free-tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Couchbase Capella is a fully managed database cluster service for developers
+  building applications across IoT to AI.
+
+
+  ## Features
+
+
+  - Fully managed database cluster
+
+  - 1 node on free tier
+
+  - 8GB storage on free tier
+
+  - Forever free tier
+
+  - Built for IoT to AI applications
+
+
+  ## Pricing
+
+
+  Forever free tier available with 1 node and 8GB storage.
+brand: Couchbase
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,40 @@
+name: Searchly
+description: Searchly is a managed search service providing a free plan with 2
+  indices and 20 MB storage. It is a commercial NoSQL database-as-a-service
+  focused on search indexing and querying, delivered as a hosted platform.
+source_url: https://www.searchly.com
+category: NoSQL DBaaS
+tags:
+  - free-plan
+  - search
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Searchly is a managed search service that provides indexed search capabilities
+  as a hosted NoSQL database. It handles search index infrastructure so users do
+  not need to manage their own search servers.
+
+
+  ## Features
+
+
+  - Managed search indices
+
+  - 2 indices and 20 MB storage on the free plan
+
+  - Hosted search platform
+
+  - Search indexing and querying
+
+
+  ## Pricing
+
+
+  A free plan is available with 2 indices and 20 MB storage. Paid plans scale
+  beyond the free tier limits.
+brand: Searchly
+brand_logo_url: https://www.searchly.com/assets/images/searchly-logo.png
+images: []
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,41 @@
+name: Databend
+description: "Databend is an open-source, elastic cloud data warehouse built for
+  high-performance analytics and seamless integration with popular data tools.
+  It provides lightning-fast analytics with compute-storage separation. Pricing:
+  open source (Apache-2.0), with managed cloud options."
+source_url: https://databend.com
+category: Distributed SQL
+tags:
+  - Open Source
+  - Data Warehouse
+  - OLAP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Databend is an open-source, elastic cloud data warehouse built for
+  high-performance analytics.
+
+
+  ## Features
+
+
+  - Open-source, elastic cloud data warehouse
+
+  - High-performance analytics with compute-storage separation
+
+  - Seamless integration with popular data tools
+
+  - Cloud-native and elastic scaling
+
+  - SQL-compatible analytics
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license. Managed cloud options available via
+  Databend Cloud.
+brand: Databend
+updated_at: 2026-11-22 05:22

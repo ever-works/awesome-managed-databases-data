@@ -1,0 +1,51 @@
+name: 8base
+description: 8base is a full-stack low-code development platform built for
+  JavaScript developers on top of MySQL and GraphQL with serverless
+  backend-as-a-service. It provides a UI app builder for rapid web application
+  development. The free tier includes 2,500 rows, 500 storage, 1Gb/h serverless
+  computing, and 5 client app users.
+source_url: https://8base.com
+category: Managed MySQL
+tags:
+  - serverless
+  - low-code
+  - freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  8base is a full-stack low-code development platform built for JavaScript
+  developers built on top of MySQL and GraphQL and serverless
+  backend-as-a-service.
+
+
+  ## Features
+
+
+  - UI app builder for rapid web application development
+
+  - Built on MySQL and GraphQL
+
+  - Serverless backend-as-a-service
+
+  - Scalable architecture
+
+
+  ## Pricing
+
+
+  The Free tier includes:
+
+  - Rows: 2,500
+
+  - Storage: 500
+
+  - Serverless computing: 1Gb/h
+
+  - Client app users: 5
+
+
+  Paid plans available for scale.
+brand: 8base
+updated_at: 2026-11-22 05:22

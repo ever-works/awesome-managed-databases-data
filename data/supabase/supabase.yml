@@ -1,14 +1,87 @@
-name: "Supabase"
-description: "Open source Firebase alternative built on PostgreSQL, providing authentication, storage, and realtime APIs. Suitable for backend-as-a-service use cases with a free tier and paid usage plans."
-source_url: "https://supabase.com/"
-category: "Serverless Postgres"
+name: Supabase
+description: Supabase is an open source Postgres development platform providing
+  hosted PostgreSQL databases with authentication, auto-generated REST and
+  GraphQL APIs, realtime subscriptions, edge functions, file storage, and AI
+  vector embeddings. It can be used as a hosted platform or self-hosted, with a
+  free tier and paid usage plans.
+source_url: https://supabase.com/
+category: Serverless Postgres
 tags:
-  - "open-source"
-  - "self-hosted"
-  - "free-plan"
-  - "freemium"
-  - "api"
-  - "baas"
-icon_url: "https://icons.duckduckgo.com/ip3/supabase.com.ico"
-markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://supabase.com/>\n- Repository: <https://github.com/supabase/supabase>\n\nLicense: Apache 2.0.\n"
-updated_at: "2026-11-21 02:00"
+  - open-source
+  - self-hosted
+  - free-plan
+  - freemium
+  - api
+  - baas
+markdown: >-
+  ## Overview
+
+
+  Supabase is an open source Firebase alternative built on PostgreSQL. It is a
+  combination of open source tools including Postgres, Realtime (Elixir server
+  for database change listening via websockets), PostgREST (RESTful API from
+  Postgres), GoTrue (JWT-based authentication API), Storage (S3-compatible file
+  storage), pg_graphql (GraphQL API extension), postgres-meta (REST API for
+  managing Postgres), and Envoy (edge and service proxy).
+
+
+  ## Features
+
+
+  - Hosted Postgres Database
+
+  - Authentication and Authorization (GoTrue)
+
+  - Auto-generated REST API (PostgREST)
+
+  - Auto-generated GraphQL API (pg_graphql)
+
+  - Realtime subscriptions over websockets
+
+  - Database Functions
+
+  - Edge Functions
+
+  - File Storage (S3-compatible)
+
+  - AI + Vector/Embeddings Toolkit
+
+  - Dashboard
+
+  - Client libraries for JavaScript/TypeScript, Flutter, Swift, Python, C#, Go,
+  Java, Kotlin, Ruby, Rust, and Godot
+
+
+  ## Deployment
+
+
+  Supabase is a hosted platform that can be used without installation. It can
+  also be self-hosted and developed locally.
+
+
+  ## Pricing
+
+
+  Freemium with a free tier and paid usage plans.
+
+
+  ## License
+
+
+  Open source under MIT, Apache 2.0, or equivalent open licenses.
+
+
+  ## Links
+
+
+  - Website: <https://supabase.com/>
+
+  - Repository: <https://github.com/supabase/supabase>
+
+  - Documentation: <https://supabase.com/docs>
+brand: Supabase
+brand_logo_url: https://supabase.com/badge-made-with-supabase.svg
+images:
+  - https://supabase.com/badge-made-with-supabase.svg
+  - https://supabase.com/badge-made-with-supabase-dark.svg
+updated_at: 2026-11-22 05:22

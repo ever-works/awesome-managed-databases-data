@@ -1,0 +1,40 @@
+name: Meilisearch
+description: "Meilisearch blends full-text and semantic search at the edge,
+  delivering precise answers and matches across 300 global locations at a flat
+  rate. It provides fast, relevant search with minimal configuration. Pricing:
+  open source, with managed cloud options."
+source_url: https://meilisearch.com
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Search
+  - Edge
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Meilisearch is an open-source search engine that blends full-text and semantic
+  search, designed for fast and relevant search experiences.
+
+
+  ## Features
+
+
+  - Blends full-text and semantic search
+
+  - Search across global edge locations
+
+  - Flat-rate pricing regardless of search volume
+
+  - Fast, relevant search with minimal configuration
+
+  - Typo tolerance and instant search
+
+
+  ## Pricing
+
+
+  Open source. Managed cloud options available via Meilisearch Cloud.
+brand: Meili
+updated_at: 2026-11-22 05:22

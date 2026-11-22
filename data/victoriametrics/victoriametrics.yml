@@ -1,0 +1,42 @@
+name: VictoriaMetrics
+description: "VictoriaMetrics is a high-performance time series database and
+  monitoring platform compatible with Prometheus, handling billions of metrics
+  with lower resource usage than most alternatives. It is purpose-built for
+  metrics and logs at scale. Pricing: open source (Apache-2.0), with managed
+  cloud options."
+source_url: https://victoriametrics.com
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Time Series
+  - Prometheus
+featured: false
+markdown: >-
+  ## Overview
+
+
+  VictoriaMetrics is a fast, cost-effective and scalable time series database
+  and monitoring solution.
+
+
+  ## Features
+
+
+  - High-performance time series database for metrics and logs
+
+  - Compatible with Prometheus (remote write/read, PromQL)
+
+  - Handles billions of metrics with lower resource usage
+
+  - Designed for monitoring and observability workloads
+
+  - Single-node and cluster versions available
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license. Managed cloud options available via
+  VictoriaMetrics Cloud.
+brand: VictoriaMetrics
+updated_at: 2026-11-22 05:22

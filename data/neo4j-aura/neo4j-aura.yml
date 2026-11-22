@@ -1,0 +1,29 @@
+name: Neo4j Aura
+description: Neo4j Aura is a managed native graph database management and
+  analytics platform with Cypher query language and REST API. It has limits on
+  graph size (200k nodes, 400k relationships).
+source_url: https://neo4j.com/product/aura/
+category: NoSQL DBaaS
+tags:
+  - graph
+  - managed
+  - nosql
+featured: false
+markdown: |-
+  ## Overview
+
+  Neo4j Aura is a managed native graph DBMS and analytics platform.
+
+  ## Features
+
+  - Native graph database management
+  - Analytics platform
+  - Cypher query language
+  - REST API
+  - Graph size limits
+
+  ## Pricing
+
+  Limits on graph size: 200k nodes, 400k relationships.
+brand: Neo4j
+updated_at: 2026-11-22 05:22

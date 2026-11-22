@@ -1,0 +1,42 @@
+name: Elasticsearch
+description: "Elasticsearch is an open-source, RESTful search engine designed
+  for scalability, reliability, and easy management. It handles full-text
+  search, structured search, and analytics across large volumes of data.
+  Pricing: open source (Apache-2.0), with managed cloud options available."
+source_url: https://elastic.co
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Self-Hosted
+  - Search
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Elasticsearch is a distributed, RESTful search and analytics engine built on
+  Apache Lucene. It is designed for horizontal scalability, reliability, and
+  easy operational management.
+
+
+  ## Features
+
+
+  - Distributed, RESTful search and analytics engine
+
+  - Full-text search, structured search, and analytics
+
+  - Horizontal scalability and high availability
+
+  - Near real-time search and indexing
+
+  - RESTful HTTP API
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license. Managed cloud options available via
+  Elastic Cloud.
+brand: Elastic
+updated_at: 2026-11-22 05:22

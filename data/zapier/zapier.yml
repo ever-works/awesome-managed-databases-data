@@ -1,0 +1,41 @@
+name: Zapier
+description: Automation platform to connect apps and automate workflows. Free
+  tier includes five zaps every 15 minutes and 100 tasks/month, with update
+  time, five active automations, and webhooks.
+source_url: https://zapier.com/
+category: NoSQL DBaaS
+tags:
+  - automation
+  - api
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Zapier is an automation platform that connects web applications and services
+  to automate workflows without code.
+
+
+  ## Features
+
+
+  - Connect thousands of apps
+
+  - Multi-step workflows (zaps)
+
+  - Webhooks
+
+  - Five zaps every 15 minutes (free)
+
+  - 100 tasks/month (free)
+
+  - Five active automations (free)
+
+
+  ## Pricing
+
+
+  Free plan includes five zaps every 15 minutes, 100 tasks/month, and five
+  active automations. Paid plans for higher task volumes and premium apps.
+brand: Zapier
+updated_at: 2026-11-22 05:22

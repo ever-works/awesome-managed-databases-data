@@ -1,0 +1,28 @@
+name: Skyvia
+description: Skyvia is a cloud data platform offering a free tier, with all
+  plans completely free while in beta. It provides data integration, backup, and
+  connectivity services.
+source_url: https://skyvia.com
+category: Free Tiers
+tags:
+  - data-integration
+  - backup
+  - free-tier
+featured: false
+markdown: |-
+  ## Overview
+
+  Skyvia is a cloud data platform.
+
+  ## Features
+
+  - Cloud data platform
+  - Data integration
+  - Backup services
+  - Connectivity services
+
+  ## Pricing
+
+  Offers a free tier. All plans are completely free while in beta.
+brand: Skyvia
+updated_at: 2026-11-22 05:22

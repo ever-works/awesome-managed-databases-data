@@ -1,0 +1,50 @@
+name: Azure Cosmos DB
+description: Azure Cosmos DB is a fully managed NoSQL database service offered
+  by Microsoft Azure with a free tier that includes 25GB of storage and 1000 RUs
+  of provisioned throughput. It is part of Azure's free tier offerings for
+  developers.
+source_url: https://azure.microsoft.com/products/cosmos-db/
+category: NoSQL DBaaS
+tags:
+  - Free Plan
+  - Freemium
+  - Cloud
+  - NoSQL
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Azure Cosmos DB is a fully managed NoSQL database service provided by
+  Microsoft Azure. It offers a free tier with 25GB of storage and 1000 RUs of
+  provisioned throughput as part of Azure's free tier offerings.
+
+
+  ## Features
+
+
+  - Fully managed NoSQL database
+
+  - 25GB storage on free tier
+
+  - 1000 RUs of provisioned throughput on free tier
+
+  - Part of Microsoft Azure
+
+
+  ## Pricing
+
+
+  Freemium model. Free tier includes 25GB storage and 1000 RUs of provisioned
+  throughput. Paid tiers available beyond free tier limits.
+
+
+  ## Deployment
+
+
+  Cloud (Microsoft Azure)
+brand: Microsoft Azure
+brand_logo_url: https://azurecdn.azureedge.net/assets/2023/06/azure-icon-bg.svg
+images:
+  - https://azure.microsoft.com/media/common/videos/gallery/azure-cosmos-db-video-poster.jpg
+updated_at: 2026-11-22 05:22

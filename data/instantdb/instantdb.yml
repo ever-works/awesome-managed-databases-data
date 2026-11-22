@@ -1,0 +1,40 @@
+name: InstantDB
+description: "InstantDB is a real-time client-side database for collaborative
+  apps. It is a database solution for building real-time and offline-enabled
+  applications, simplifying the development of collaborative products. Pricing:
+  open source (Apache-2.0)."
+source_url: https://instantdb.com
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Realtime
+  - Client-Side
+featured: false
+markdown: >-
+  ## Overview
+
+
+  InstantDB is a database solution for building real-time and offline-enabled
+  collaborative applications.
+
+
+  ## Features
+
+
+  - Realtime client-side database for collaborative apps
+
+  - Real-time and offline-enabled applications
+
+  - Simplifies development of collaborative products
+
+  - Client-side data synchronization
+
+  - Built for modern web and mobile applications
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license.
+brand: InstantDB
+updated_at: 2026-11-22 05:22

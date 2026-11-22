@@ -1,0 +1,42 @@
+name: Baserow
+description: "Baserow is an open-source no-code database and app builder you can
+  self-host. It provides a spreadsheet-like interface for building databases,
+  internal apps, and automated workflows without writing code. Pricing: open
+  source (MIT), with hosted cloud options."
+source_url: https://baserow.io
+category: NoSQL DBaaS
+tags:
+  - Open Source
+  - Self-Hosted
+  - No-Code
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Baserow is an open-source no-code database and app builder that can be
+  self-hosted or used on cloud.
+
+
+  ## Features
+
+
+  - Open-source platform for building databases, internal apps, and automated
+  workflows
+
+  - No-code database and app builder
+
+  - Spreadsheet-like interface
+
+  - Available on cloud or self-hosted
+
+  - API and integrations available
+
+
+  ## Pricing
+
+
+  Open source under the MIT license. Hosted cloud options available via Baserow
+  Cloud.
+brand: Baserow
+updated_at: 2026-11-22 05:22

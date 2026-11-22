@@ -1,0 +1,38 @@
+name: Simperium
+description: Data synchronization service that moves data everywhere instantly
+  and automatically across multiple platforms. Supports unlimited sending and
+  storage of structured data with a maximum of 2,500 users/month on the free
+  tier.
+source_url: https://simperium.com/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - data-sync
+  - cross-platform
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Simperium is a data synchronization service that moves structured data
+  instantly and automatically across multiple platforms and devices.
+
+
+  ## Features
+
+
+  - Unlimited sending and storage of structured data
+
+  - Multi-platform synchronization
+
+  - Max 2,500 users/month on free tier
+
+  - Real-time data sync
+
+
+  ## Pricing
+
+
+  Free tier supports up to 2,500 users/month. Paid plans for larger scale.
+brand: Simperium
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,42 @@
+name: ClickHouse
+description: "ClickHouse is a distributed SQL database combining OLTP and OLAP
+  capabilities, offering horizontal scalability, high availability, and
+  real-time analytics. It handles columnar, time-indexed analytics data at scale
+  with sub-second query response times. Pricing: open source (Apache-2.0), with
+  managed cloud options."
+source_url: https://clickhouse.com
+category: Distributed SQL
+tags:
+  - Open Source
+  - OLAP
+  - Real-Time Analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ClickHouse is an open-source column-oriented database management system for
+  online analytical processing (OLAP) workloads.
+
+
+  ## Features
+
+
+  - Distributed SQL database combining OLTP and OLAP capabilities
+
+  - Horizontal scalability and high availability
+
+  - Real-time analytics on columnar, time-indexed data
+
+  - Sub-second query response times at scale
+
+  - SQL extensions for analytics
+
+
+  ## Pricing
+
+
+  Open source under the Apache-2.0 license. Managed cloud options available via
+  ClickHouse Cloud.
+brand: ClickHouse Inc.
+updated_at: 2026-11-22 05:22

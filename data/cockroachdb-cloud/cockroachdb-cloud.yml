@@ -1,0 +1,38 @@
+name: CockroachDB Cloud
+description: CockroachDB Cloud is a distributed SQL database offering a free
+  tier with 50 million Request Units (RUs) and 10 GiB of storage per month
+  (equivalent to $15 worth). It provides scalable, resilient SQL database
+  infrastructure.
+source_url: https://www.cockroachlabs.com/product/cockroachdb-cloud/
+category: Distributed SQL
+tags:
+  - distributed
+  - sql
+  - free-tier
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CockroachDB Cloud is a distributed SQL database service.
+
+
+  ## Features
+
+
+  - Distributed SQL architecture
+
+  - Request Units (RU) based billing
+
+  - Scalable and resilient
+
+  - Multi-cloud deployment
+
+
+  ## Pricing
+
+
+  Free tier offers 50 million RUs and 10 GiB of storage free per month
+  (equivalent to $15 worth).
+brand: Cockroach Labs
+updated_at: 2026-11-22 05:22

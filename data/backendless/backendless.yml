@@ -1,0 +1,44 @@
+name: Backendless
+description: Mobile and Web Backend-as-a-Service with 1 GB file storage free,
+  push notifications of 50,000/month, and 1000 data objects in the table.
+  Provides a complete backend including database, user management, file storage,
+  and push notifications.
+source_url: https://backendless.com/
+category: NoSQL DBaaS
+tags:
+  - baas
+  - mobile-backend
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Backendless is a Mobile and Web Backend-as-a-Service platform that provides
+  database, user management, file storage, and push notifications for mobile and
+  web applications.
+
+
+  ## Features
+
+
+  - 1 GB file storage free
+
+  - Push notifications: 50,000/month free
+
+  - 1000 data objects free in tables
+
+  - User management and authentication
+
+  - File storage
+
+  - Real-time database
+
+
+  ## Pricing
+
+
+  Freemium model with a free tier including 1 GB file storage, 50,000 push
+  notifications/month, and 1000 data objects. Paid plans available for higher
+  limits.
+brand: Backendless
+updated_at: 2026-11-22 05:22

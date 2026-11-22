@@ -1,0 +1,38 @@
+name: Pixela
+description: Pixela is a free daystream database service where all operations
+  are performed via API. It supports visualization with heat maps and line
+  graphs, enabling developers to track habits, metrics, and time-series data
+  with a simple API-based interface.
+source_url: https://pixela.ink
+category: Edge / SQLite Databases
+tags:
+  - Free Plan
+  - API
+  - Time-series
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pixela is a free daystream database service. All operations are performed by
+  API. Visualization with heat maps and line graphs is also possible.
+
+
+  ## Features
+
+
+  - API-based daystream database
+
+  - Heat map visualization
+
+  - Line graph visualization
+
+  - Free to use
+
+
+  ## Pricing
+
+
+  Free.
+brand: Pixela
+updated_at: 2026-11-22 05:22

@@ -1,0 +1,37 @@
+name: Npoint
+description: Npoint is a JSON store with collaborative schema editing, enabling
+  teams to store and manage JSON documents together through an API. It provides
+  an API-driven document store suitable for small applications and prototypes,
+  with a free tier available.
+source_url: https://npoint.io
+category: NoSQL DBaaS
+tags:
+  - Free Plan
+  - API
+  - JSON
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Npoint is a JSON store with collaborative schema editing, letting teams store
+  and manage JSON documents together through an API.
+
+
+  ## Features
+
+
+  - JSON document storage
+
+  - Collaborative schema editing
+
+  - API-driven data access
+
+  - Suitable for small apps and prototypes
+
+
+  ## Pricing
+
+
+  Free tier available.
+updated_at: 2026-11-22 05:22

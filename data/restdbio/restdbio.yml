@@ -1,0 +1,32 @@
+name: restdb.io
+description: restdb.io is a fast and straightforward NoSQL cloud database
+  service with schema, relations, automatic REST API (with MongoDB-like
+  queries), and a multi-user admin UI. The free plan allows 3 users, 2,500
+  records, and 1 API request per second.
+source_url: https://restdb.io
+category: NoSQL DBaaS
+tags:
+  - nosql
+  - rest-api
+  - free-plan
+featured: false
+markdown: |-
+  ## Overview
+
+  restdb.io is a fast and straightforward NoSQL cloud database service.
+
+  ## Features
+
+  - Schema and relations
+  - Automatic REST API with MongoDB-like queries
+  - Multi-user admin UI
+  - Efficient data management
+
+  ## Pricing
+
+  Free plan allows:
+  - 3 users
+  - 2,500 records
+  - 1 API request per second
+brand: restdb.io
+updated_at: 2026-11-22 05:22

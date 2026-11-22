@@ -1,0 +1,48 @@
+name: Activepieces
+description: Backend automation platform that lets you build flows to connect
+  several apps together in your app's backend, such as sending a Slack message
+  or adding a Google Sheet row when an event fires. Free tier allows up to 5,000
+  tasks per month. Self-hosted open-source option available under MIT license.
+source_url: https://activepieces.com/
+category: NoSQL DBaaS
+tags:
+  - open-source
+  - automation
+  - self-hosted
+  - free-plan
+markdown: >-
+  ## Overview
+
+
+  Activepieces is an open-source backend automation platform for building
+  integration flows between applications.
+
+
+  ## Features
+
+
+  - Connect multiple apps and services together
+
+  - Trigger-based automation (e.g., send Slack message when an event fires)
+
+  - Free tier includes up to 5,000 tasks per month
+
+  - Self-hosting available with open-source version
+
+  - MIT licensed
+
+
+  ## Pricing
+
+
+  Free plan includes up to 5,000 tasks per month. Paid plans available for
+  higher task volumes. Open-source self-hosted version available under MIT
+  license.
+
+
+  ## Repository
+
+
+  https://github.com/activepieces/activepieces
+brand: Activepieces
+updated_at: 2026-11-22 05:22
