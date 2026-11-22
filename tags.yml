@@ -1,76 +1,202 @@
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: Api
 - id: serverless
-  name: "Serverless"
+  name: Serverless
 - id: baas
-  name: "BaaS"
+  name: Baas
 - id: orm
-  name: "ORM"
+  name: ORM
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: search
-  name: "Search"
+  name: Search
 - id: multi-tenant
-  name: "Multi-tenant"
+  name: Multi-tenant
 - id: multi-cloud
-  name: "Multi-cloud"
+  name: Multi-cloud
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: managed-service
-  name: "Managed Service"
+  name: Managed Service
 - id: high-availability
-  name: "High Availability"
+  name: High Availability
 - id: backups
-  name: "Backups"
+  name: Backups
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: google-cloud
-  name: "Google Cloud"
+  name: Google Cloud
 - id: distributed-sql
-  name: "Distributed SQL"
+  name: Distributed SQL
 - id: htap
-  name: "HTAP"
+  name: HTAP
 - id: mysql-compatible
-  name: "MySQL-compatible"
+  name: MySQL-compatible
 - id: edge
-  name: "Edge"
+  name: Edge
 - id: sqlite
-  name: "SQLite"
+  name: SQLite
 - id: libsql
-  name: "libSQL"
+  name: libSQL
 - id: cloudflare
-  name: "Cloudflare"
+  name: Cloudflare
 - id: nosql
-  name: "NoSQL"
+  name: NoSQL
 - id: document
-  name: "Document"
+  name: Document
 - id: atlas-search
-  name: "Atlas Search"
+  name: Atlas Search
 - id: redis
-  name: "Redis"
+  name: Redis
 - id: kafka
-  name: "Kafka"
+  name: Kafka
 - id: in-memory
-  name: "In-memory"
+  name: In Memory
 - id: mobile
-  name: "Mobile"
+  name: Mobile
 - id: postgresql
-  name: "PostgreSQL"
+  name: Postgresql
 - id: heroku
-  name: "Heroku"
+  name: Heroku
 - id: add-on
-  name: "Add-on"
+  name: Add-on
 - id: time-series
-  name: "Time-series"
+  name: Time Series
 - id: mysql
-  name: "MySQL"
+  name: Mysql
 - id: paas
-  name: "PaaS"
+  name: PaaS
+- id: low-code
+  name: Low Code
+- id: automation
+  name: Automation
+- id: spreadsheet
+  name: Spreadsheet
+- id: relational
+  name: Relational
+- id: cloud
+  name: Cloud
+- id: olap
+  name: OLAP
+- id: real-time-analytics
+  name: Real Time Analytics
+- id: iot
+  name: IoT
+- id: parse-platform
+  name: Parse Platform
+- id: mobile-backend
+  name: Mobile Backend
+- id: backup
+  name: Backup
+- id: supabase
+  name: Supabase
+- id: no-code
+  name: No Code
+- id: elasticsearch
+  name: Elasticsearch
+- id: managed
+  name: Managed
+- id: distributed
+  name: Distributed
+- id: sql
+  name: Sql
+- id: free-tier
+  name: Free Tier
+- id: javascript
+  name: Javascript
+- id: chat
+  name: Chat
+- id: video-calling
+  name: Video Calling
+- id: reactive
+  name: Reactive
+- id: acid
+  name: Acid
+- id: analytics
+  name: Analytics
+- id: data-warehouse
+  name: Data Warehouse
+- id: tensor-database
+  name: Tensor Database
+- id: redis-compatible
+  name: Redis Compatible
+- id: flutter
+  name: Flutter
+- id: firebase
+  name: Firebase
+- id: activity-feeds
+  name: Activity Feeds
+- id: video
+  name: Video
+- id: relational-database
+  name: Relational Database
+- id: timeseries
+  name: Timeseries
+- id: realtime
+  name: Realtime
+- id: client-side
+  name: Client Side
+- id: multi-engine
+  name: Multi Engine
+- id: anonymous
+  name: Anonymous
+- id: json
+  name: JSON
+- id: cache
+  name: Cache
+- id: memcache
+  name: Memcache
+- id: graph-database
+  name: Graph Database
+- id: vector-database
+  name: Vector Database
+- id: graph
+  name: Graph
+- id: graphrag
+  name: GraphRAG
+- id: push-notifications
+  name: Push Notifications
+- id: messaging
+  name: Messaging
+- id: managed-database
+  name: Managed Database
+- id: authentication
+  name: Authentication
+- id: real-time
+  name: Real Time
+- id: vector
+  name: Vector
+- id: rest-api
+  name: Rest Api
+- id: recovery
+  name: Recovery
+- id: database
+  name: Database
+- id: data-sync
+  name: Data Sync
+- id: cross-platform
+  name: Cross Platform
+- id: data-integration
+  name: Data Integration
+- id: ai
+  name: Ai
+- id: integrations
+  name: Integrations
+- id: industrial-iot
+  name: Industrial IoT
+- id: clickhouse
+  name: Clickhouse
+- id: api-management
+  name: Api Management
+- id: gateway
+  name: Gateway
+- id: prometheus
+  name: Prometheus

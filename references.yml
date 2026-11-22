@@ -1,10 +1,69 @@
-- url: "https://github.com/ripienaar/free-for-dev#managed-data-services"
-  title: "free-for-dev — section “Managed Data Services”"
-- url: "https://raw.githubusercontent.com/alexeyfv/awesome-free-postgres/HEAD/README.md"
-  title: "GitHub list — alexeyfv/awesome-free-postgres (140★)"
-- url: "https://openalternative.co/categories/infrastructure-operations/databases"
-  title: "OpenAlternative — Databases"
-- url: "https://github.com/topics/dbaas"
-  title: "GitHub topic — `dbaas` (147 repos)"
-- url: "https://github.com/topics/serverless-database"
-  title: "GitHub topic — `serverless-database` (13 repos)"
+- url: https://github.com/ripienaar/free-for-dev#managed-data-services
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-22T05:09:45.526Z
+  last_attempted_at: 2026-11-22T05:09:45.526Z
+  last_success_at: 2026-11-22T05:09:45.526Z
+  status: success
+  items_created: 49
+  pipeline: agent-pipeline
+- url: https://github.com/supabase/supabase
+  normalized_url: https://github.com/supabase/supabase
+  first_seen_at: 2026-11-22T05:21:11.847Z
+  last_attempted_at: 2026-11-22T05:21:11.847Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/supabase/supabase"
+- url: https://github.com/topics/dbaas
+  normalized_url: https://github.com/topics/dbaas
+  first_seen_at: 2026-11-22T05:16:22.550Z
+  last_attempted_at: 2026-11-22T05:16:22.550Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/dbaas"
+- url: https://github.com/topics/serverless-database
+  normalized_url: https://github.com/topics/serverless-database
+  first_seen_at: 2026-11-22T05:19:22.639Z
+  last_attempted_at: 2026-11-22T05:19:22.639Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/serverless-database"
+- url: https://neon.com
+  normalized_url: https://neon.com/
+  first_seen_at: 2026-11-22T05:19:49.269Z
+  last_attempted_at: 2026-11-22T05:19:49.269Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://neon.com"
+- url: https://openalternative.co/categories/infrastructure-operations/databases
+  normalized_url: https://openalternative.co/categories/infrastructure-operations/databases
+  first_seen_at: 2026-11-22T05:15:00.312Z
+  last_attempted_at: 2026-11-22T05:15:00.312Z
+  last_success_at: 2026-11-22T05:15:00.312Z
+  status: success
+  items_created: 18
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/alexeyfv/awesome-free-postgres/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/alexeyfv/awesome-free-postgres/HEAD/README.md
+  first_seen_at: 2026-11-22T04:56:25.983Z
+  last_attempted_at: 2026-11-22T04:56:25.983Z
+  last_success_at: 2026-11-22T04:56:25.983Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://supabase.com
+  normalized_url: https://supabase.com/
+  first_seen_at: 2026-11-22T05:20:43.872Z
+  last_attempted_at: 2026-11-22T05:20:43.872Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://supabase.com"
